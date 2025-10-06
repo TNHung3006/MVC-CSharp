@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hung Tran Ngoc - 66131218 - Baitap1.props" />
+</Project>

@@ -245,3 +245,6 @@ D:\Source code\visual studio\ASP.NET core MVC\MvcMovie\MvcMovie\bin\Debug\net6.0
 D:\Source code\visual studio\ASP.NET core MVC\MvcMovie\MvcMovie\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Source code\visual studio\ASP.NET core MVC\MvcMovie\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.AssemblyReference.cache
 D:\Source code\visual studio\ASP.NET core MVC\MvcMovie\MvcMovie\obj\Debug\net6.0\MvcMovie.csproj.CopyComplete
+D:\Source Code\visual studio\CSharp\MVC-CSharp\MvcMovie\MvcMovie\obj\Debug\net6.0\MvcMovie.dll
+D:\Source Code\visual studio\CSharp\MVC-CSharp\MvcMovie\MvcMovie\obj\Debug\net6.0\refint\MvcMovie.dll
+D:\Source Code\visual studio\CSharp\MVC-CSharp\MvcMovie\MvcMovie\obj\Debug\net6.0\MvcMovie.pdb
